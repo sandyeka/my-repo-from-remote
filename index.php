@@ -10,5 +10,8 @@
     <p> Hy There, I am Learning GIT from Dicoding.com </p>
     <br>
     <small> This is In new Line Code </small>
+    <div class="footer">
+        Footer of this Content
+    </div>
 </body>
 </html>
