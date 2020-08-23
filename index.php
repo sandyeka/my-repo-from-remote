@@ -6,8 +6,9 @@
     <title>Learning GIT</title>
 </head>
 <body>
-    Hy There, I am Learning GIT from Dicoding.com
+    <h1>Learning GIT Client with SourceTree from Dicoding</h1>
+    <p> Hy There, I am Learning GIT from Dicoding.com </p>
     <br>
-    In new Line Code
+    <small> This is In new Line Code </small>
 </body>
 </html>
