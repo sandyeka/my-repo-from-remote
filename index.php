@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <div class="header">Header Learning GIT</div>
     <h1>Learning GIT Client with SourceTree from Dicoding</h1>
     <p> Hy There, I am Learning GIT from Dicoding.com </p>
     <br>

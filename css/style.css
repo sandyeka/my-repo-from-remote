@@ -5,3 +5,9 @@
     color: black;
     background: grey;
 }
+/* Style Header */
+.header{
+    font-size:16pt;
+    text-align: center;
+    font-weight: bold;
+}
